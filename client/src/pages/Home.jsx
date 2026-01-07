@@ -1,5 +1,5 @@
 import React from "react";
-import Banner from "../components/home/banner";
+import Banner from "../components/home/Banner.jsx";
 import Hero from "../components/home/Hero";
 import Feautures from "../components/home/Feautures";
 import Testimonial from "../components/home/Testimonial";
